@@ -10,7 +10,7 @@
 
 ---
 
-**GIO v3.0** es una plataforma de gestión de operaciones diseñada para **Full Pro Restoration**. Este repositorio actúa como el nodo central de distribución, donde el motor **Sentinel** rastrea y despliega las últimas actualizaciones para todo el equipo operativo.
+**GIO v3.0** es una plataforma de gestión de operaciones diseñada para **TARGET INC**. Este repositorio actúa como el nodo central de distribución, donde el motor **Sentinel** rastrea y despliega las últimas actualizaciones para todo el equipo operativo.
 
 </div>
 
